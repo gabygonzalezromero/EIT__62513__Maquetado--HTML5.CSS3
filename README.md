@@ -13,20 +13,30 @@
 
 ---
 1. Clase - `07/01/2023` de 10:00 a 13:00 hs.
-    - [ ] Bienvenida. Presentacion del docente y del curso.
-    - [ ] Sobre la plataforma.
-    - [ ] Organizacion y objetivos del curso.
-    - [ ] Cadena de trabajo Agil = _Diseño UX/UI + Desarrollo_
-        - [ ] Prototipado y roles.
-        - [ ] Prototipado wireframe.
-        - [ ] Introduccion a Figma.
+    - [X] Bienvenida. Presentacion del docente y del curso.
+    - [X] Sobre la plataforma.
+    - [X] Organizacion y objetivos del curso.
+    - [X] Cadena de trabajo Agil = _Diseño UX/UI + Desarrollo_ [Link Excalidraw](https://excalidraw.com/#json=0uLREt-3ijA3-c5-6g9Ac,wQDcfxOaSn19DB6ePTEpAw)
+        - [X] Prototipado y roles.
+        - [X] Prototipado wireframe.
+        - [X] Introduccion a Figma.
+    - [ ] Para la proxima clase :
+        - Elegir IDE.
+        - Cuenta de Figma activa.
+
+2. Clase - `14/01/2023` de 10:00 a 13:00 hs.
+    - [ ] Repaso clase anterior.
+    - [ ] Metodolias Agiles de trabajo (Developers)
+    - [ ] Etiquetas HTML varias
+    - [ ] Para la proxima clase...
+
+3. Clase - `21/01/2023` de 10:00 a 13:00 hs.
+    - [ ] Repaso clase anterior.
     - [ ] Que es CSS ?
         - [ ] Kahoot o preguntas para conocer el nivel de conocimiento.
         - [ ] Repaso.
     - [ ] Para la proxima clase...
 
-2. Clase - `14/01/2023` de 10:00 a 13:00 hs.
-3. Clase - `21/01/2023` de 10:00 a 13:00 hs.
 4. Clase - `28/01/2023` de 10:00 a 13:00 hs.
 5. Clase - `04/02/2023` de 10:00 a 13:00 hs.
 6. Clase - `11/02/2023` de 10:00 a 13:00 hs.
