@@ -20,14 +20,14 @@
         - [X] Prototipado y roles.
         - [X] Prototipado wireframe.
         - [X] Introduccion a Figma.
-    - [ ] Para la proxima clase :
+    - [X] Para la proxima clase :
         - Elegir IDE.
         - Cuenta de Figma activa.
 
 2. Clase - `14/01/2023` de 10:00 a 13:00 hs.
-    - [ ] Repaso clase anterior.
-    - [ ] Metodolias Agiles de trabajo (Developers)
-    - [ ] Etiquetas HTML varias
+    - [X] Repaso clase anterior.
+    - [X] Metodolias Agiles de trabajo (Developers)
+    - [X] Etiquetas HTML varias
         - Evitar la 'div mania'.
         - Estructura de una etiquetas HTML.
             - Head : `meta`.
@@ -73,11 +73,10 @@
             - Uso de tabulacion vs. espacios y problemas con los lectore de pantallas.
                 - [Herramientas](https://es.wikipedia.org/wiki/Lector_de_pantalla).
             - Uso de las etiquetas de enfasis (`<em></em>`), negrita (`<strong></strong>` y `<b></b>`), italica (`<i></i>`) y subrayado (`<u></u>` se confunde con un link).
-    - [ ] Introduccion a CSS
-    - [ ] Para la proxima clase...
 
 3. Clase - `21/01/2023` de 10:00 a 13:00 hs.
     - [ ] Repaso clase anterior.
+    - [ ] Introduccion a CSS
     - [ ] Que es CSS ?
         - [ ] Kahoot o preguntas para conocer el nivel de conocimiento.
         - [ ] Repaso.
