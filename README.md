@@ -28,6 +28,52 @@
     - [ ] Repaso clase anterior.
     - [ ] Metodolias Agiles de trabajo (Developers)
     - [ ] Etiquetas HTML varias
+        - Evitar la 'div mania'.
+        - Estructura de una etiquetas HTML.
+            - Head : `meta`.
+                - Etiquetas `meta name="msapplication-square70x70logo"`. 
+                - Etiquetas `meta property="og:..."`.
+                    - [Ver aticulo!](https://ogp.me/).
+                    - [Insertar datos dinamicamente : JS](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
+                - Etiquetas `link` + favicon : png, gif, ico (IExplorer) svg + Base64, apple-touch-icon.
+            - Etiquetas regulares y etiquetas de auto-cierre.
+                Etiquetas de imagenes : `<img />`.
+                - Propiedades infaltables : `alt` , `width` , `height`.
+            - Etiquetas liks : `a`
+                - Propiedades infaltables : `href` , `title`, `target` (_blank).
+                - URL vs URiS :
+                    - URL externas.
+                    - URiS : se linkean con un `id` dentro del documentos (`href="#ubicacion"` + `id="ubicacion"`)
+                - Rutas relativas y absolutas.
+                    - Rutas absolutas : Incluyen el protocolo y el dominio de la ubicacion del documento.
+                    - Rutas relativas : Hace referencia a la ubicacion en carpeta del elemento desde donde se
+                      utiliza. **Altamente recomendable!**
+                - Agregar el atributo `download="./..."` cuando sea necesario descargar un documento.
+                - Enlaces a correos electronicos :
+                    - `href="mailto:...@..."`
+                    - `?cc=`
+                    - `&cbb=`
+                    - `&subject=`
+                    - `&body=` (ojo con los espacios, deben reemplazarse por `%20`).
+                -  Enlaces a numeros de telefono:
+                    - `href="tel:`
+            - Etiquetas `script` : _defer_ y _async_.
+                - [Ver articulo!](https://javascript.info/script-async-defer)
+            - Unir CSS y JS desde HTML correctamente.
+            - Establecer correctamente el idioma y region de la pagina : `<html lang="es-AR">`
+                - [Ver documentacion W3](https://www.w3.org/International/articles/language-tags/).
+                - Atributo `lang=""` en un etiqueta para marcar otro idioma.
+        - Etiquetas de bloque y etiquetas en linea.
+        - Anidacion de etiquetas : [Ver herramienta](https://caninclude.glitch.me/)
+        - Jerarquia semantica en `header`, `nav`, `aside`, `main` y `footer`.
+            - Estructura interna : `section`, `article`.
+        - [Otras etiquetas](https://www.w3schools.com/tags/default.asp)
+        - Accsibilidad : Introduccion.
+            - Uso del atributo `tabindex="#"` para navegar con la tecla TAB.
+            - Uso de tabulacion vs. espacios y problemas con los lectore de pantallas.
+                - [Herramientas](https://es.wikipedia.org/wiki/Lector_de_pantalla).
+            - Uso de las etiquetas de enfasis (`<em></em>`), negrita (`<strong></strong>` y `<b></b>`), italica (`<i></i>`) y subrayado (`<u></u>` se confunde con un link).
+    - [ ] Introduccion a CSS
     - [ ] Para la proxima clase...
 
 3. Clase - `21/01/2023` de 10:00 a 13:00 hs.
