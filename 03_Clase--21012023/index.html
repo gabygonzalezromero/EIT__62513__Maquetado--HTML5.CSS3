@@ -11,7 +11,7 @@
         <!-- OG Tags -->
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="__OG_SITE-NAME__" />
-        <meta property="og:url" content="__OG_URL__" />
+    <meta property="og:url" content="__OG_URL__" />
         <meta property="og:title" content="__OG_TITLE__" />
         <meta property="og:description" content="__OG_DESCRIPTION__" />
         <meta property="og:image" content="__OG_IMAGE__" />
@@ -46,7 +46,12 @@
         <meta name="msapplication-square150x150logo" content="icon_mediumtile.png" />
         <meta name="msapplication-wide310x150logo" content="icon_widetile.png" />
 
+        <link rel="stylesheet" href="./styles/reset.css" />
         <link rel="stylesheet" href="./styles/styles.css" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400&display=swap" rel="stylesheet">
 
         <link rel="stylesheet" href="./" type="text/css" media="screen" />
 
@@ -54,7 +59,7 @@
 
         <link rel="manifest" href="/manifest.json" /> 
      
-        <script type="module" src="/src/main.tsx" defer ></script>
+        <script type="module" src="./app.js" defer ></script>
     </head> <!-- Fin Head -->
     <body class="Body" >
 
@@ -62,10 +67,13 @@
             <section>
                 <article>
                     <figure>
-                        <img width="" height="" src="" alt="" />
-                        <figcaption>....</figcaption>
+                        <img width="100px" height="100px" src="" alt="ES : Texto alternativo | EN : Alternative text" />
+                        <figcaption>Pie de una imagen</figcaption>
                     </figure>
 
+                    <button>Soy boton!</button>
+
+                    <p> Hola mundo! </p>
                     <header></header>
                     <aside></aside>
                     <main></main>

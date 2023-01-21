@@ -1,0 +1,51 @@
+@charset 'UTF-8';
+
+:root {
+    /* Colores */
+    --c_red50 : rgb( 255 , 0 , 0 ) ;
+    --c_red500 : #f44336 ;
+    --c_red600 : #e53935;
+    --c_secundario : rgb( 0 ,0 , 255 ) ;
+    --c_blue100 : #e53935;
+    
+
+    --c_yellow500 : rgb( 255 , 255 , 0 ) ;
+    --c_primary : rgba(69, 237, 161, 1) ;
+
+    /* Fuentes */
+    --f_base : 16px ;
+
+}
+
+
+
+html {
+    font-size : var( --f_base ) ;
+    font-weight : 400 ;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+* {
+   padding : 0rem ;
+    margin: 0 ;
+}
+
+/* Comienzo Body */
+.Body {
+    max-width : 1200px ;
+
+    background-color: var( --c_secundary ) ;
+    color : var( --c_secundario ) ;
+}
+
+/*Comienzo Header*/
+.Header {}
+
+/* Comienzo Main */
+.Main {}
+
+/*Comiezo Aside*/
+.Aside {}
+
+/*Comienzo Footer*/
+.Footer {}
