@@ -1,5 +1,6 @@
 @charset 'UTF-8';
 
+
 :root {
     /* Colores */
     --c_red50 : rgb( 255 , 0 , 0 ) ;
@@ -15,9 +16,15 @@
     /* Fuentes */
     --f_base : 16px ;
 
+    /*MediaQuery sm : 350px , md : 700px , lg : 980px , xl : 1020px */
+    --mq_sm : 350px ;
+    --mq_md : 700px ;
+    --mq_lg : 980px ;
+    --mq_xl : 1200px ; /* 100% ancho de la pantalla */
+
 }
-
-
+/*Metologia Atomica & Metodologia OSCSS...*/
+/*Metodologia : BEM (B)loque - (E)lemento - (M)odificador*/
 
 html {
     font-size : var( --f_base ) ;
@@ -26,26 +33,51 @@ html {
 }
 
 * {
-   padding : 0rem ;
+    padding : 0rem ;
     margin: 0 ;
 }
 
 /* Comienzo Body */
+/* Flexbox */
+
 .Body {
-    max-width : 1200px ;
+    max-width : var( --mq_xl ) ;
 
     background-color: var( --c_secundary ) ;
     color : var( --c_secundario ) ;
 }
 
 /*Comienzo Header*/
-.Header {}
+.Header {
+    width: 100% ;
+    height: 100% ;
+}
+
+.Header .section {}
+
+.Header .section .article {}
+
+.Header .section .article .logo {}
+
+.Header .section .article .navbar {
+    color : magenta ;
+}
 
 /* Comienzo Main */
-.Main {}
+.Main {
+    width: 100% ;
+    height: 100% ;
+}
 
 /*Comiezo Aside*/
-.Aside {}
+.Aside {
+    width: 100% ;
+    height: 100% ;
+}
 
 /*Comienzo Footer*/
-.Footer {}
+.Footer {
+    width: 100% ;
+    height: 100% ;
+
+}

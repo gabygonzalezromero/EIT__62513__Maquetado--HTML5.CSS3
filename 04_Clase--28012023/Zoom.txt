@@ -1,0 +1,49 @@
+Buen dia! Arrancamos 10:05 hs.
+De Gabriel Vespasiano-767377 a Usted (Mensaje directo) (28 de ene. de 2023, 10:04)
+profe le puedo hacer una consulta despues de la clase, no tiene nada que ver con la clase pero, desde JavaScript haciendo un fech con post no me recibe los parámetros en el php . pero haciéndolo con GET si los recibe
+De Usted a Todos (28 de ene. de 2023, 10:04)
+Dale !
+De Victor Sanchez-705896 a Todos (28 de ene. de 2023, 10:05)
+buen dia!
+De Maite Stefania Benitez-635419 a Todos (28 de ene. de 2023, 10:05)
+Buenas
+De Victor Sanchez-705896 a Todos (28 de ene. de 2023, 10:06)
+profe puedo preguntarle como esta el mercado laboral actualmente? muchos dicen que esta medio complicado para front juniors
+De Gabriel Vespasiano-767377 a Todos (28 de ene. de 2023, 10:09)
+como junior con 2 años de experiencia
+De Victor Sanchez-705896 a Todos (28 de ene. de 2023, 10:20)
+entiendo, gracias profe
+De Gabriel Vespasiano-767377 a Todos (28 de ene. de 2023, 10:21)
+profe para mantener una organización , hacer un archivo css por media query que tan mal esta?
+De Gabriel Vespasiano-767377 a Todos (28 de ene. de 2023, 10:36)
+si profe gracias
+De Giulia Nicole Curletto a Todos (28 de ene. de 2023, 10:44)
+Ninguna
+De Alan Claudio a Todos (28 de ene. de 2023, 10:51)
+profesor allí no aplica el max-width ??
+De Gabriel Vespasiano-767377 a Todos (28 de ene. de 2023, 11:22)
+profe por eso aveces hay 3 o 4 with por ejemplo y uno dice moz- otro dice webkit- y asi no?, para que solo afecte a esos navegadores que no están soportados por la otra técnica o no es para eso
+De Gabriel Vespasiano-767377 a Todos (28 de ene. de 2023, 11:34)
+esa app de post te cambia el clamp por media query ? o no llega a tanto
+De Nicolas Di Cocciolo-794819 a Todos (28 de ene. de 2023, 11:38)
+si bien
+De Giulia Nicole Curletto a Todos (28 de ene. de 2023, 11:38)
+Perfecto
+De Maite Stefania Benitez-635419 a Todos (28 de ene. de 2023, 11:38)
+okay
+De Usted a Todos (28 de ene. de 2023, 11:38)
+Nos vemos 11:50 AM
+De Usted a Todos (28 de ene. de 2023, 11:51)
+Volvemos ?
+De Giulia Nicole Curletto a Todos (28 de ene. de 2023, 12:43)
+Sisi
+Genial
+De Gabriel Vespasiano-767377 a Todos (28 de ene. de 2023, 12:51)
+hay 12 filas tambien?
+De Giulia Nicole Curletto a Todos (28 de ene. de 2023, 12:54)
+Perfecto
+jajjajaja si
+De Maite Stefania Benitez-635419 a Todos (28 de ene. de 2023, 13:02)
+gracias buen finde
+De Gabriel Vespasiano-767377 a Todos (28 de ene. de 2023, 13:02)
+buen finde

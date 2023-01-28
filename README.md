@@ -83,7 +83,17 @@
     - [ ] Para la proxima clase...
 
 4. Clase - `28/01/2023` de 10:00 a 13:00 hs.
+    - Proxima clase:
+        - Estructuras basicas (HTML y demas con CSS).
+        - Unidades relativas / absolutas.
+
 5. Clase - `04/02/2023` de 10:00 a 13:00 hs.
+    - [ ] Repaso de BEM
+    - [ ] Repaso de Flexbox : Grid.
+    - [ ] Grid y contruccion del layout.
+    - [ ] Imagenes : JPG , PNG , SVG , nuevas extensiones de archivos de imagenes.
+    - [ ] Kahoot
+    - [ ] Para la proxima clase
 6. Clase - `11/02/2023` de 10:00 a 13:00 hs.
 7. Clase - `18/02/2023` de 10:00 a 13:00 hs.
 8. Clase - `25/02/2023` de 10:00 a 13:00 hs.
