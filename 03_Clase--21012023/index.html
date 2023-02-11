@@ -51,7 +51,7 @@
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;700&display=swap" rel="stylesheet">
 
         <link rel="stylesheet" href="./" type="text/css" media="screen" />
 
@@ -64,11 +64,23 @@
     <body class="Body" >
 
         <header class="Header" >
+            <!--<picture>-->
+                <!--<img -->
+                    <!--width="1000px" height="800px"-->
+                    <!--src="./images/bg_2.jpg"-->
+                    <!--alt="ES : Imagen de font | EN : Background img"-->
+                <!--/>
+
+            </picture>-->
             <section class="section" >
                 <article class="article" >
                     <figure class="logo" >
-                        <img width="100px" height="100px" src="" alt="ES : Texto alternativo | EN : Alternative text" />
-                        <figcaption>Pie de una imagen</figcaption>
+                        <img 
+                            width="40px" height="40px"
+                            src="./images/logo.svg" 
+                            alt="ES : Logo | EN : Logo" 
+                        />
+                        <figcaption>Findtrend</figcaption>
                     </figure>
                     <nav class="navbar" >
                         <ul class="menu" >
@@ -83,21 +95,82 @@
                             </li>
                         </ul>
                     </nav>
-                    <button>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </button>
+                    <div class="login" >
+                        <p>Login</p>
+                        <button>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </button>
+                    </div>
                 </article>
+            </section>
+            <section class="masthead" >
+                <hgroup>
+                    <h1>Minimize your tabs.<br>Find the trends!</h1>
+                    <p>Don’t let your computer memories consumes all of those browser tabs. Findtrend let you gathers all of your favorite website into one place.</p>
+                </hgroup>
             </section>
         </header>
 
         <aside class="Aside" >
         </aside>
 
-        <main class="Main" ></main>
+        <main class="Main" >
+            <picture>
+                <img
+                    width="1400px" height="500px"
+                    src="./images/img_1.jpg" alt="Imagen 1"
+                    loading="lazy"
+                    decoding="async"
+                    <!--srcset="bk_sm.png 350w 1x , bk_md.png 700w 1.5x, bk_lg.png 980w 2x"-->
+                    <!--size="min( min-width : 350em )"-->
+                >
+            </picture>
+            <picture>
+                <img
+                    width="900px" height="500px"
+                    src="./images/img_2.jpg"
+                    alt="Imagen 1"
+                    loading="lazy"
+                    decoding="async"
+                >
+            </picture>
+            <picture>
+                <img 
+                    width="900px" height="500px"
+                    src="./images/img_3.jpg"
+                    alt="Imagen 1"
+                    loading="lazy"
+                    decoding="async"
+                />
+            </picture>
+            <picture>
+                <img 
+                    width="900px" height="500px"
+                    src="./images/img_4.jpg"
+                    loading="lazy"
+                    alt="Imagen 1"
+                    decoding="async"
+                />
+            </picture>
+        </main>
 
-        <footer class="Footer" ></footer>
+        <footer class="Footer" >
+            <section class="logo" >
+                <figure>
+                    <img width="170px" height="41px" src="" alt="ES : Logo | EN : Logo">
+                </figure>
+            </section>
+            <section class="menu" >
+                <ul class="menu__list">
+                    <li><a href="#">Privacy PolicyTerms and Conditions</a></li>
+                    <li><a href="#">Terms and Conditions</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">Careers</a></li>
+                </ul>
+            </section>
+        </footer>
 
     </body> <!-- Fin Body -->
 </html>
